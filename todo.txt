@@ -1,0 +1,5 @@
+- Creating first repo
+- Add file to repo
+- Look at git history
+- Hands on exercise
+- GitHub
